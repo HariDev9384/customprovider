@@ -3,5 +3,5 @@
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false
-*.dart linguist-detectable=true
+*.dart linguist-detectable=Dart
 *.cpp linguist-detectable=false
