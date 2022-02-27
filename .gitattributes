@@ -5,3 +5,4 @@
 *.xml linguist-detectable=false
 *.dart linguist-detectable=Dart
 *.cpp linguist-detectable=false
+*.exe linguist-detectable=false
